@@ -18,7 +18,8 @@ Addition
 Subtraction
 Multiplication
 Division
-How It Works
+
+How It Works:
 
 When the program starts, a menu displays the available operations.
 
@@ -32,11 +33,14 @@ The user selects an operation, enters the first number, and then enters the seco
 After processing the operation, the program displays the result.
 
 Technologies
+
 Technology	Purpose
 Java	Application development
+
 JOptionPane	User interaction and graphical dialogs
 
 Demonstration
+
 Main Menu
 <p align="center">
   <img src="MenuCalculadora/Img/MenuInicial.png" width="250">
